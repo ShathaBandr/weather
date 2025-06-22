@@ -11,10 +11,14 @@ Python 3.x
 مكتبة requests
 
 ⚙️ طريقة التشغيل
+
 تأكد من تثبيت مكتبة requests:
 
+
 pip install requests
+
 شغّل الملف:
+
 
 python weather.py
 أدخل اسم المدينة عند الطلب.
